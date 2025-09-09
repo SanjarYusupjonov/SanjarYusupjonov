@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## 🚀 About Me
-- 🎓 2nd-year Computer Science student at New Uzbekistan University  
+- 🎓 3nd-year Computer Science student at New Uzbekistan University  
 - 💻 Junior Software Developer at **Tenzorsoft**  
-- 🌱 Currently deepening my knowledge in **Spring Boot & React**  
+- 🌱 Currently deepening my knowledge in **Java**  
 - 🤝 Open to collaborating on **Java backend projects**  
 - ⚡ Fun fact: I enjoy solving problems on **LeetCode**  
 
