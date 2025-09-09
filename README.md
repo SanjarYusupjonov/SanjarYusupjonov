@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-### 💻 Junior Software Developer at Tenzorsoft  
+## 🚀 About Me
+- 🎓 2nd-year Computer Science student at New Uzbekistan University  
+- 💻 Junior Software Developer at **Tenzorsoft**  
+- 🌱 Currently deepening my knowledge in **Spring Boot & React**  
+- 🤝 Open to collaborating on **Java backend projects**  
+- ⚡ Fun fact: I enjoy solving problems on **LeetCode**  
 
 ## Languages and Technologies I Know
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
