@@ -1,10 +1,8 @@
-## Hi there 👋
+## About Me
+- 🎓 I am a third-year Computer Science student at New Uzbekistan University.  
+- 💻 I am currently employed as a Junior Software Developer at **Tenzorsoft**.  
+- 🌱 I am actively expanding my expertise in **Java**.  
+- 🤝 I am open to opportunities for collaboration on **Java backend projects**.  
+- ⚡ In addition to development, I have a strong interest in solving algorithmic challenges on **LeetCode**.  
 
-## 🚀 About Me
-- 🎓 3nd-year Computer Science student at New Uzbekistan University  
-- 💻 Junior Software Developer at **Tenzorsoft**  
-- 🌱 Currently deepening my knowledge in **Java**  
-- 🤝 Open to collaborating on **Java backend projects**  
-- ⚡ Fun fact: I enjoy solving problems on **LeetCode**.  
-🔗 Check out my profile: [Sanjar_0215](https://leetcode.com/u/Sanjar_0215/)
-
+🔗 View my LeetCode profile: [Sanjar_0215](https://leetcode.com/u/Sanjar_0215/)
